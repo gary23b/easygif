@@ -5,7 +5,7 @@ Easy creation of screenshots and GIFs with Golang.
 [![Go Reference](https://pkg.go.dev/badge/github.com/gary23b/easygif.svg)](https://pkg.go.dev/github.com/gary23b/easygif)
 [![Go CI](https://github.com/gary23b/easygif/actions/workflows/go.yml/badge.svg)](https://github.com/gary23b/easygif/actions/workflows/go.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/gary23b/easygif)](https://goreportcard.com/report/github.com/gary23b/easygif)
-[![Coverage Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/gary23b/0a0333c69ea9afb4202222262fec1111/raw/gary23b_easygif_main.json)](https://github.com/gary23b/easygif/actions)
+[![Coverage Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/gary23b/fc54fb0b86a835ca3f907efc85a1d61c/raw/gary23b_easygif_main.json)](https://github.com/gary23b/easygif/actions)
 
 ## Install
 
