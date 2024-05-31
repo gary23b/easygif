@@ -9,6 +9,8 @@ Easy creation of screenshots and GIFs with Golang.
 
 ## Install
 
+Go 1.22 or later is required.
+
 ```bash
 go get github.com/gary23b/easygif
 ```
